@@ -53,7 +53,7 @@ function App() {
             <div className="card">
               <img
                 src={userData.avatar_url}
-                className="card-img-top"
+                className="card-img-top w-50 m-auto pt-3"
                 alt="User avatar"
               />
               <div className="card-body">
